@@ -58,9 +58,9 @@ See the `data/` folder for dataset documentation. The dataset source and applica
 
 ## Project Files
 
-- **Python Notebook:** [View Python Analysis](hr_employee_attrition_analysis.ipynb.ipynb)
-- **SQL Queries:** [View SQL Analysis](hr_employee_attrition_analysis.sql.sql)
-- **Power BI Dashboard:** [Download Power BI Report](hr_employee_attrition_dashboard.pbix.pbix)
+- **Python Notebook:** [View Python Analysis](hr_employee_attrition_analysis.ipynb)
+- **SQL Queries:** [View SQL Analysis](hr_employee_attrition_analysis.sql)
+- **Power BI Dashboard:** [Download Power BI Report](hr_employee_attrition_dashboard.pbix)
 - **Dataset:** [View Dataset Folder](data/)
 - **Dashboard Screenshots:** [View Screenshots Folder](screenshots/)
 
