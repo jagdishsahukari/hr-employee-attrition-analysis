@@ -68,12 +68,18 @@ The Power BI report can be downloaded and opened in Microsoft Power BI Desktop.
 
 ## Key Findings
 
-Key findings will be documented after the final Python analysis, SQL results, and dashboard metrics have been reviewed.
+- **Overall Attrition:** 237 out of 1,470 employees left the organization, resulting in an overall attrition rate of approximately **16.12%**.
+- **Workforce Analysis:** The dataset includes employee demographics, departments, job roles, compensation, job satisfaction, overtime, and other workforce characteristics.
+- **Attrition Patterns:** The analysis examines how employee attrition varies across workforce groups and job-related factors.
+- **Dashboard Insights:** The Power BI dashboard presents workforce metrics and attrition patterns to support easier interpretation of the analysis.
 
 ## Recommendations
 
-Recommendations will be based on verified analytical findings. Observed relationships will not be treated as proof of causation.
-
+- **Monitor Attrition:** Track the overall attrition rate regularly to identify changes in workforce retention.
+- **Review High-Attrition Groups:** Use department and job-role analysis to identify groups that may need further investigation.
+- **Evaluate Workload and Satisfaction:** Review overtime, job satisfaction, and work-life balance patterns to identify potential areas for improvement.
+- **Assess Compensation Patterns:** Compare compensation across job roles and employee groups alongside observed attrition patterns.
+- **Use Evidence-Based Decisions:** Validate patterns using Python, SQL, and Power BI results before making HR decisions. Observed relationships should not be treated as proof of causation.
 ## Author
 
 **Jagdish Sahukari**
