@@ -5,7 +5,7 @@ This folder contains the dataset used for the HR Employee Attrition Analysis pro
 - **Rows:** 1,470
 - **Columns:** 35
 - **File Format:** CSV
-- **File Name:** `HR-Employee-Attrition(1).csv`
+- **File Name:** `HR-Employee-Attrition.csv`
 
 ## Dataset Usage
 
