@@ -46,7 +46,15 @@ See the `data/` folder for dataset documentation. The dataset source and applica
 
 ### Attrition Deep Dive
 
-![HR Attrition Deep Dive](screenshots/hr_attrition_attrition_deepdive.png)
+![HR Attrition Deep Dive](screenshots/hr_attrition_attrition_deep%20dive.png)
+
+### Key Insights
+
+![HR Attrition Key Insights](screenshots/hr_attrition_key%20insights.png)
+
+### Workforce and Compensation
+
+![HR Attrition Workforce and Compensation](screenshots/hr_attrition_workforce%20%26%20compensation.png)
 
 ## Project Files
 
