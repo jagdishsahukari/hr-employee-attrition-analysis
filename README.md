@@ -46,7 +46,7 @@ See the `data/` folder for dataset documentation. The dataset source and applica
 
 ### Attrition Deep Dive
 
-![HR Attrition Deep Dive](screenshots/hr_attrition_attrition_deep_dive.png)
+![HR Attrition Deep Dive](screenshots/hr_attrition_attrition_deep dive.png)
 
 ## Project Files
 
