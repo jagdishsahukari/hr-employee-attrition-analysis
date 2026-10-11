@@ -48,7 +48,7 @@ The following images provide a visual preview of the report pages.
 
 ### Attrition Deep Dive
 
-![HR Attrition Deep Dive](screenshots/hr_attrition_deep_dive.png)
+![HR Attrition Deep Dive](screenshots/hr_attrition_attrition_deep_dive.png)
 
 ## Project Files
 
